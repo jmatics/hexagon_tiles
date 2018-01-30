@@ -9,7 +9,6 @@ library(rgdal)
 library(readr)
 library(ggplot2)
 library(cowplot)
-library(Cairo)
 library(tmap)
 library(tmaptools)
 
